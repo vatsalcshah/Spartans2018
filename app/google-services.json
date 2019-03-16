@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "94003561144",
+    "firebase_url": "https://mockstock-c3169.firebaseio.com",
+    "project_id": "mockstock-c3169",
+    "storage_bucket": "mockstock-c3169.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:94003561144:android:041e19262b90d520",
+        "android_client_info": {
+          "package_name": "com.vatsal.spartans"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "94003561144-dk75civnuf5g1dd2avja5ffd0eerse83.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vatsal.spartans",
+            "certificate_hash": "22c432e86e4e70f70b2882e937b0f85ad3a6af17"
+          }
+        },
+        {
+          "client_id": "94003561144-tkeva3dhlnbhvsnim4g1of6mdgdpk3bb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBc7z4jFLATBMVDSQgn73YyI4UKVbQDiM4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "94003561144-tkeva3dhlnbhvsnim4g1of6mdgdpk3bb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
