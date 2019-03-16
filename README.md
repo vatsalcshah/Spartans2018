@@ -1,1 +1,1 @@
-# Android Bottom Navigation with Swipping Using Viewpager
+# Stock Market Simulation with Firebase
