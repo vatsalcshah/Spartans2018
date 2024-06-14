@@ -15,10 +15,7 @@ import com.vatsal.spartans.R;
 import com.vatsal.spartans.models.Company;
 import com.vatsal.spartans.models.Stock;
 
-/**
- * Mock Stock
- * Created by Yash on 9/15/2018.
- */
+
 public class BoughtStockAdapter extends RecyclerView.Adapter<BoughtStockAdapter.ViewHolder> {
     Context context;
     FirebaseHelper helper;

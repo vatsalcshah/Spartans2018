@@ -16,10 +16,7 @@ import com.vatsal.spartans.models.Stock;
 
 import java.util.List;
 
-/**
- * Mock Stock
- * Created by Yash on 9/15/2018.
- */
+
 public class BuyAdapter extends RecyclerView.Adapter<BuyAdapter.ViewHolder> {
 
     List<Company> list;

@@ -1,9 +1,5 @@
 package com.vatsal.spartans.models;
 
-/**
- * Mock Stock
- * Created by Yash on 9/15/2018.
- */
 public class Stock {
     String id;
     String key;

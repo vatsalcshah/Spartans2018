@@ -1,9 +1,6 @@
 package com.vatsal.spartans.models;
 
-/**
- * Mock Stock
- * Created by Yash on 9/15/2018.
- */
+
 public class Company {
     public String id = "z";
     public String image;
