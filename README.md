@@ -2,7 +2,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
-![Spartans](https://github.com/vatsalcshah/vatsalcshah.github.io/blob/master/img/portfolio/spartanspage.jpg)
+![SpartansDemo](https://ritbird.com/portfolio/img/portfolio/spartanspage.jpg)
 
 Spartans is an app developed for the "Spartans of the Wall Street" stock market event. It provides a stock market simulation experience, allowing users to trade stocks in a virtual environment. The app utilizes Firebase for real-time data synchronization and Firestore Cloud Functions for backend API manipulations. In addition to virtual trading, Spartans offers users the ability to stay informed with the latest news from the business market, based on which participants can place their bets, enhancing their strategic decision-making process.
 
